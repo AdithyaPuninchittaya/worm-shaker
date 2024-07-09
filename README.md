@@ -3,7 +3,7 @@
 ## Design of Assembly
 The habituation device was designed using Fusion 360 as a multi-part file on a PC. As shown in Figure 1, the bottom case houses the Seeed Studio XIAO SAMD21 microcontroller, with an opening for the USB-C combined data and power port. The bottom case has holes so that the entire *C. elegans* plate can be viewed under a bottom-lit stereo zoom microscope. 
 
-![Figure 1: Image showing the bottom case of the habituation device.](#)
+![Figure 1: Image showing the bottom case of the habituation device.](https://github.com/AdithyaPuninchittaya/worm-shaker/blob/main/Images/unnamed%20(1).jpg)
 
 The top plate, as shown in Figure 2 below, is designed to simultaneously accommodate three 35 mm bacteriological Petri dishes in a triangular configuration. The top plate also has mounting points for the three vibration motors (Garosa Vibration Motor 11500rpm) placed equidistantly between the Petri dish holders. The motors were placed so that each was tangent to the two adjacent Petri dishes, ensuring an even distribution of vibrational stimuli. 
 
