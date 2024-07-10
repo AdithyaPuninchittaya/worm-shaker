@@ -21,7 +21,7 @@ The STL files were sliced using Bambu Studio and then transferred to the Bambu L
 
 A wiring harness was created to connect the vibration motors to the Seeed Studio XIAO SAMD21 microcontroller, as shown, using spare jumper wires. Wires from the motors were then routed against the device frame and hot-glued in place to the top plate. The wiring diagram is shown below in Figure 3. 
 
-| ![Figure 3: Image showing the wiring diagram for the wiring harness.](#) |
+| ![Figure 3: Image showing the wiring diagram for the wiring harness.](https://github.com/AdithyaPuninchittaya/worm-shaker/blob/main/Images/unnamed.png) |
 |:--:| 
 | *Figure 3: Image showing the wiring diagram for the wiring harness. * |
 
