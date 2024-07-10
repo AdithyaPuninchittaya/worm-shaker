@@ -1,3 +1,5 @@
+## The full research paper for this project which details the rationale, methods, results, and discussion is linked here: [https://docs.google.com/document/d/1LjSq2D_FG7MaTCYWkhqbbYRr-aXNf1JoYAtKsyUWb9E/edit?usp=sharing](https://docs.google.com/document/d/1LjSq2D_FG7MaTCYWkhqbbYRr-aXNf1JoYAtKsyUWb9E/edit?usp=sharing)
+
 # MATERIALS AND METHODS 
 
 ## Design of Assembly
